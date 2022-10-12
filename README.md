@@ -6,7 +6,7 @@ Web and Python Developer
 
 I started learning HTML a few years ago, and that's how I really got into coding. I taught myself Javascript and CSS to go along with HTML and then ventured out into other languages, like Java and Python. Currently, I work on a lot of projects in Python but I like to play around with the other languages I know occasionally.
 
-* 🌍  I'm based in Scarsdale, NY
+* 🌍  I'm based in Scarsdale, NY / Waltham, MA
 * 📕  I'm studying at Brandeis University, where I'm majoring in Computer Science and Economics
 * 🖥️  See my portfolio at [aronfrishberg.com](http://aronfrishberg.com)
 * ✉️  You can contact me at [aronfrishberg@brandeis.edu](mailto:aronfrishberg@brandeis.edu)
