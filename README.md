@@ -11,9 +11,9 @@ I started learning HTML a few years ago, and that's how I really got into coding
 * 🖥️  See my personal website at [aronfrishberg.com](http://aronfrishberg.com)
 * ✉️  You can contact me at [aronfrishberg@brandeis.edu](mailto:aronfrishberg@brandeis.edu)
 * 🤝  I'm open to collaborating on real-world projects, that include python, websites, and really anything
-* ⚡  I love Falafel
+* ⚡  I love Falafel and Hummus
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -23,10 +23,11 @@ I started learning HTML a few years ago, and that's how I really got into coding
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.github.com/AronFrish" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aron_frishberg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aron-frishberg-376b0b205/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges
+
+## Badges
 
 <b>My GitHub Stats</b>
 
