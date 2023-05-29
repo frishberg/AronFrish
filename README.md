@@ -1,15 +1,15 @@
 Hi 👋 My name is Aron Frishberg
 ===============================
 
-Web and Python Developer
+Back-End and Python Developer
 ------------------------
 
 I started learning HTML a few years ago, and that's how I really got into coding. I taught myself Javascript and CSS to go along with HTML and then ventured out into other languages, like Java and Python. Currently, I work on a lot of projects in Python but I like to play around with the other languages I know occasionally.
 
-* 🌍  I'm based in Scarsdale, NY / Waltham, MA
-* 📕  I'm studying at Brandeis University, where I'm majoring in Computer Science and Business
+* 🌍  I'm based in Scarsdale, NY / Chicago, IL
+* 📕  I'm studying at the University of Chicago, where I'm majoring in Computer Science and Economics
 * 🖥️  See my personal website at [aronfrishberg.com](http://aronfrishberg.com)
-* ✉️  You can contact me at [aronfrishberg@brandeis.edu](mailto:aronfrishberg@brandeis.edu)
+* ✉️  You can contact me at [frishberg@uchicago.edu](mailto:frishberg@uchicago.edu)
 * 🤝  I'm open to collaborating on real-world projects, that include python, websites, and really anything
 * ⚡  I love Falafel and Hummus
 
